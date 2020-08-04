@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/bin/Debug/netcoreapp3.1/Int_Float_Double.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Int_Float_Double/obj/Debug/netcoreapp3.1/Int_Float_Double.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String.dll
+/mnt/d/Deep Learning/C# Bootcamp/String/bin/Debug/netcoreapp3.1/String.pdb
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.dll
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.pdb
+/mnt/d/Deep Learning/C# Bootcamp/String/obj/Debug/netcoreapp3.1/String.genruntimeconfig.cache
