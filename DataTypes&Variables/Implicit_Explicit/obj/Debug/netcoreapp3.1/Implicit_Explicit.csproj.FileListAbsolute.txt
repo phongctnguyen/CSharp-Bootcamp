@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/bin/Debug/netcoreapp3.1/Implicit_Explicit.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Implicit_Explicit/obj/Debug/netcoreapp3.1/Implicit_Explicit.genruntimeconfig.cache

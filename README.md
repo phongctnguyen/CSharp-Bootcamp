@@ -61,8 +61,28 @@
 
 - [Naming Convetions](https://www.dofactory.com/reference/csharp-coding-standards)
 
+### String methods
 
+- Concat()
 
+- SubString(int32)
 
+- ToLower()
+
+- ToUpper()
+
+- Trim()
+
+- IndexOf(string)
+
+- IsNullOrWhiteSpace()
+
+- Format()
+
+### Cheat Sheets Section
+
+[Cheat Sheet 1](https://cheatography.com/laurence/cheat-sheets/c/)
+
+[Cheat Sheet 2](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
 
 

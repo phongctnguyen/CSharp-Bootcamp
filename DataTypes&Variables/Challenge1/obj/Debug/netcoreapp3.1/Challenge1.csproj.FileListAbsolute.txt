@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/bin/Debug/netcoreapp3.1/Challenge1.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.dll
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.pdb
+/mnt/d/Deep Learning/C# Bootcamp/DataTypes&Variables/Challenge1/obj/Debug/netcoreapp3.1/Challenge1.genruntimeconfig.cache
