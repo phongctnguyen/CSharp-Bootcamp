@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/bin/Debug/netcoreapp3.1/Operators.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Operators/obj/Debug/netcoreapp3.1/Operators.genruntimeconfig.cache
