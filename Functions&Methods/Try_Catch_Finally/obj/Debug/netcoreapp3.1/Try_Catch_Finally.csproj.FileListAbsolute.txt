@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/bin/Debug/netcoreapp3.1/Try_Catch_Finally.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Try_Catch_Finally/obj/Debug/netcoreapp3.1/Try_Catch_Finally.genruntimeconfig.cache

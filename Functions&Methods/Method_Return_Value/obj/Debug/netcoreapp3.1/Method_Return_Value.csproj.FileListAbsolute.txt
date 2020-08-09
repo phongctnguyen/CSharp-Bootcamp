@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/bin/Debug/netcoreapp3.1/Method_Return_Value.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/Method_Return_Value/obj/Debug/netcoreapp3.1/Method_Return_Value.genruntimeconfig.cache

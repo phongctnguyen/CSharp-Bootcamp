@@ -86,3 +86,48 @@
 [Cheat Sheet 2](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
 
 
+## II. Functions and Methods
+
+### Methods
+
+A method is a code block that contains a series of statements. A program causes the statements to be executed by calling the method and specifying any required method arguments. In C#, every executed instruction is performed in the context of a method. The Main method is the entry point for every C# application and it is callled by the common language runtime (CLR) when the program is started.
+
+```
+Syntax:
+
+<Access Specifier> <Return Type> <Method Name> (Parameter List)
+{
+  Method Body
+}
+```
+
+- Access Specifier: The Access Specifier determines the visibility of a variable or a method from another class.
+
+- Return Type: A method may return a value. The return type is the data type of the value the method returns. If the method is not returning any values, then the return type is void.
+
+- Method name: Method name is a unique identifier and it is case sensitive. It cannot be same as any other identifier declared in the class.
+
+- Parameter list: Enclosed between parantheses, the parameters are used to pass and receive data from a method. The parameter list refers to the type, order, and number of the parameters of a method. Parameters are optional, that is, a method may contain no parameters.
+
+- Method body: This contains the set of instructions needed to complete the required activity
+
+
+## III. Maing Decisions
+
+### If Statement
+
+```
+Syntax:
+
+if (condition) 
+{
+  // what to do if condition is met 
+} 
+else if (condition2)
+{
+  // what to do if condition2 is met
+} 
+else {
+  // what to do if none of the conditions is met
+}
+```

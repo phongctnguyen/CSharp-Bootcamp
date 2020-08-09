@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/bin/Debug/netcoreapp3.1/User_Input.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.dll
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Functions&Methods/User_Input/obj/Debug/netcoreapp3.1/User_Input.genruntimeconfig.cache
