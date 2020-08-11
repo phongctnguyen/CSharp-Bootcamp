@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop.dll
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/bin/Debug/netcoreapp3.1/Do_While_Loop.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.dll
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Do_While_Loop/obj/Debug/netcoreapp3.1/Do_While_Loop.genruntimeconfig.cache

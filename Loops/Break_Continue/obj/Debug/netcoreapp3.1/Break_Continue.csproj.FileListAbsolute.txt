@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue.dll
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/bin/Debug/netcoreapp3.1/Break_Continue.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.dll
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Loops/Break_Continue/obj/Debug/netcoreapp3.1/Break_Continue.genruntimeconfig.cache

@@ -131,3 +131,58 @@ else {
   // what to do if none of the conditions is met
 }
 ```
+
+## IV. Loops
+
+- Advantage of Loops:
+
+  + Save time
+  + Quick and easy repetition of code
+  + Allows you to work with huge amounts of Data
+  + Allows you to loop through arrays
+
+- Loop Types:
+
+  + for loop
+  + while loop (check then go)
+  + do while loop (do first then check)
+  + foreach loop (run through array or list)
+
+
+### For Loop
+
+```
+for (start value; condition; increment) {
+  // code body
+}
+```
+
+### While Loop
+
+```
+counterVariable = 0;
+while(condition) {
+  // execute your code
+  counterVariable++;
+}
+
+Executes code as long as the condition is met
+```
+
+### Do While Loop
+
+```
+counterVariable = 0;
+do {
+  // execute your code
+  counterVariable++;
+} while(condition)
+
+Executes code as long as the condition is met
+```
+
+### Foreach loop
+```
+runs through an array
+only as long as there is content
+```
