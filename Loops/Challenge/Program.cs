@@ -22,7 +22,7 @@ namespace Challenge
 
           if (num == -1)
           {
-            break;
+            break; 
           }
 
           if ((num < 0 || num > 20) && num != -1)

@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/bin/Debug/netcoreapp3.1/Jagged_Array.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Jagged_Array/obj/Debug/netcoreapp3.1/Jagged_Array.genruntimeconfig.cache

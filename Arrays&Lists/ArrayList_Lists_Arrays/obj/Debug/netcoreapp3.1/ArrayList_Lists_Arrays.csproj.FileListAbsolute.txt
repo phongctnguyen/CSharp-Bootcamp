@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/bin/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/ArrayList_Lists_Arrays/obj/Debug/netcoreapp3.1/ArrayList_Lists_Arrays.genruntimeconfig.cache

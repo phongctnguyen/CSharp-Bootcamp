@@ -185,4 +185,91 @@ Executes code as long as the condition is met
 ```
 runs through an array
 only as long as there is content
+
+foreach (type variable in arrayElement) {
+  // code body 
+}
 ```
+
+## V. Class 
+
+- A class is a blueprint of an Object
+- It has actions/abilities - so called member functions or methods
+- It has properties - so called member variables
+- Inheritance possible
+- Can be used like a Datatype (e.g. String is a Class)
+
+```
+Examples:
+* Object (Car)
+- Properties: HP, Wheels, Lumen, Doors...
+- Abilities: Drive, Break, Make Light...
+- Inheritance: A5 < Audi < Car
+```
+
+[Access Modifier](https://code-maze.com/csharp-basics-access-modifiers/)
+
+## VI. Arrays
+
+``Array``
+  + Stores a fixed size sequentia collection of elements
+  + ONLY of the same type
+  + All kinds of types: int, string, object, etc...
+  + Great to store a collection of data - easier to think of a collection of variables of the same type stored at continous memory locations
+
+- Declaring an array
+
+```
+  dataType[] arrayName;
+  int[] grades;
+```
+
+- Initializing an array
+
+```
+  dataType[] arrayName = new dataType[amountOfEntries];
+  int[] grades = new int[5];
+```
+
+- Assigning values to an array
+
+```
+  arrayName[index] = value;
+```
+
+``Collections: Lists``
+
+  + group of objects/values you work with can grow and shrink dynamically
+  + A collection is a class amd it requires an instance of the class before adding elements to that collection
+  + Use System.Collections.Generic namespace
+
+- Declaration
+
+```
+  var numbers = new List<int>();
+  var numbers = new List<int>(1, 5, 35);
+```
+
+- Properties
+
+```
+  Items
+  Count
+```
+
+- Method
+
+```
+  Add(value)
+  Remove(value)
+  RemoveAt(index)
+  Clear()
+  ...
+```
+
+- Get Value
+
+```
+  Use index: numbers[0]
+```
+

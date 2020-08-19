@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/bin/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Multi_Dimensional_Arrays/obj/Debug/netcoreapp3.1/Multi_Dimensional_Arrays.genruntimeconfig.cache

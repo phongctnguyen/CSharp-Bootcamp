@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/bin/Debug/netcoreapp3.1/Foreach_Loop.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.dll
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Arrays&Lists/Foreach_Loop/obj/Debug/netcoreapp3.1/Foreach_Loop.genruntimeconfig.cache
