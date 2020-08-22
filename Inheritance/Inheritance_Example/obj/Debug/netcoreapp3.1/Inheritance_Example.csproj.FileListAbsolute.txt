@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/bin/Debug/netcoreapp3.1/Inheritance_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Inheritance/Inheritance_Example/obj/Debug/netcoreapp3.1/Inheritance_Example.genruntimeconfig.cache
