@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO.dll
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/bin/Debug/netcoreapp3.1/FileIO.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.dll
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/FileIO/obj/Debug/netcoreapp3.1/FileIO.genruntimeconfig.cache
