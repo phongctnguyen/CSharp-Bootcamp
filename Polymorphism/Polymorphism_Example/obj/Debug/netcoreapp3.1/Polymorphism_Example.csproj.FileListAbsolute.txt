@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/bin/Debug/netcoreapp3.1/Polymorphism_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Polymorphism/Polymorphism_Example/obj/Debug/netcoreapp3.1/Polymorphism_Example.genruntimeconfig.cache
