@@ -276,3 +276,50 @@ Examples:
 ## VII. Inheritance
 
 Inheritance allows us to define a class in terms of another class, which makes it easier to create and maintain an appilcation. This also provides an opportunity to reuse the code functionality and speeds up impelementation time
+
+## VIII. Advanced C#
+
+Marking fields and methods with access modifiers is part of the object oriented programming and increases the safeness of your code are an important part of encapsulation (which is part of OOP)
+
+In object oriented programming languages, encapsulation is used to refer to one of two related but distinct notions, and sometimes to the combination type of 
+
+- A language mechanism for restricting direct access to some of the object's components
+
+- A language construct that facilitates the bundling of data with the methods (or other functions) operating on that data
+
+```
+Access Modifier
+- private: only accessible inside a class or struct
+Ex: 
+private int age = 16;
+private void Walk() {}
+
+- public: accessible from everywhere in your project
+Ex:
+public int age = 18;
+
+- protected: accessible from the class and all classes that derive from it
+Ex: 
+protected int age = 20;
+
+-internal: accessible from its assembly (project)
+internal int age = 22;
+```
+
+### Garbage Collection
+- The .Net Framework provides an automatic memory management
+```
+  Human denis = new Human(); // allocates Memory
+```
+- The Framework takes care of reclaiming memory for reuse in the system, once objects are no longer being used
+- Don't have to manually call the garbage collector (but can)
+- The GC requires processing power
+- The GC's goal is to free up memory but not use too much processing power
+- Memory isn't necessarily right away
+- You can implement the finalizer method to execute code just before an object is released from memory be the GC
+- GC run when:
+  + When the system has low physical memory
+  + When the memory allocated exceeds a pre-set threshold
+  + When GC.Collect() is called. Even though this is a tricky method
+
+
