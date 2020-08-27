@@ -322,4 +322,40 @@ internal int age = 22;
   + When the memory allocated exceeds a pre-set threshold
   + When GC.Collect() is called. Even though this is a tricky method
 
+## IX. Delegates & Events
 
+### Delegates
+A delegate is a type that represents references to methods with a particular parameter list and return type. When you instantiate a delegate, you can associate its instance with any method with a compatible signature and return type.. You can invoke (or call) the method through the delegate instance.
+
+- Delegates are similar to C++ function pointers (but fully OOP in C#)
+- Delegates allow methods to be passes as params
+- Delegates can be used to define callback methods
+- Delegates can be changed
+  + Important for events - multiple methods can be called on a single event
+- Methods do not have to match the delegate type exactly (Covariance and Contravariance)
+- Delegates allow use of anonymous functions
+
+```
+Declare
+delegate returnType Name (param1, param2,... paramN);
+deletgate double PerformCalculation (double x, double y);
+```
+
+### Concepts of Covariance and Contravariance
+- Covariance enables to pass a derived type where a base type is expected (FileStream where Stream is expected)
+
+- Contravariance enables to pass a base type where a derived type is expected (Stream where FileStream is expected)
+
+### Events
+`Events`:
+- enables communication between objects 
+- allows cleaner code
+- enables subscriber to listen to sender
+
+```
+publlic void OnFileDownloaded(object source, EventArgs e) {}
+```
+
+`Delegates`
+- The Delegate hereby is a contract between the publisher and the subscriber
+- The delegate determines the signature of the event handler method in the subscriber amd can hold multiple method pointers

@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.genruntimeconfig.cache

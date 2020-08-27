@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/bin/Debug/netcoreapp3.1/Anonymous_Function.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Anonymous_Function/obj/Debug/netcoreapp3.1/Anonymous_Function.genruntimeconfig.cache

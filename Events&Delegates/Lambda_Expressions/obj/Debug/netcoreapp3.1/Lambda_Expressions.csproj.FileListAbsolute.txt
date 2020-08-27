@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/bin/Debug/netcoreapp3.1/Lambda_Expressions.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Lambda_Expressions/obj/Debug/netcoreapp3.1/Lambda_Expressions.genruntimeconfig.cache

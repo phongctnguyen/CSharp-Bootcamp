@@ -1,0 +1,13 @@
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.csprojAssemblyReference.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.AssemblyInfoInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.AssemblyInfo.cs
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.csproj.CoreCompileInputs.cache
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example.deps.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example.runtimeconfig.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example.runtimeconfig.dev.json
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/bin/Debug/netcoreapp3.1/Delegates_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.dll
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.pdb
+/mnt/d/Deep Learning/C# Bootcamp/Events&Delegates/Delegates_Example/obj/Debug/netcoreapp3.1/Delegates_Example.genruntimeconfig.cache
